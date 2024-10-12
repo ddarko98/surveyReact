@@ -1,0 +1,28 @@
+/* App.css */
+
+body{
+  background-color: #F2EAD3;
+}
+
+.navbar{
+  text-decoration: none;
+  height: 5vh;
+  top: 0%;
+}
+
+.qform{
+  margin-top: 10vh;
+  margin-bottom: 5vh;
+  z-index: 0;
+}
+.badge{
+  color: black;
+  
+}
+
+.footer {
+  background-color: green;
+  width: 100%;
+  bottom: 0;
+  color: white;
+}
